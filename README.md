@@ -1,7 +1,7 @@
 <H3>NAME:S.ABHISHEK</H3>
 <H3>REGISTER NO:212221230002</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:5/3/24</H3>
+<H3>DATE:6/3/24</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
